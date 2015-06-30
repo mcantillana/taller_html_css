@@ -1,2 +1,2 @@
-# taller_html_css
+# taller html css
 Taller HTML y CSS para UCSC
